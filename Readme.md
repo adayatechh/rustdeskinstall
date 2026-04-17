@@ -4,8 +4,8 @@ Easy install Script for Rustdesk on linux, should work on any 64bit (some 32bit 
 <br>
 <br>
 # How to Install the server
-Please setup your firewall on your server prior to running the script.
 
+Please setup your firewall on your server prior to running the script.<br>
 If you use UFW, allow port 21115-21119 TCP and 21116 UDP or use the following commands:
 ```
 ufw allow 21115:21119/tcp
