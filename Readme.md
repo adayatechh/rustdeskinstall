@@ -3,6 +3,7 @@ Easy install Script for Rustdesk on linux, should work on any 64bit (some 32bit 
 
 <br>
 <br>
+
 # How to Install the server
 
 Please setup your firewall on your server prior to running the script.<br>
