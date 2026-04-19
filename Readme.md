@@ -65,7 +65,7 @@ wget -qO- https://raw.githubusercontent.com/adayatechh/rustdeskinstall/main/auto
 # How to uninstall the server
 
 ```
-wget -qO- https://raw.githubusercontent.com/adayatechh/rustdeskinstall/main/uninstall.sh | bash
+wget -qO- https://raw.githubusercontent.com/adayatechh/rustdeskinstall/main/uninstall.sh | sudo bash
 ```
 
 or
