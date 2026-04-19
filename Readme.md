@@ -52,12 +52,12 @@ wget -qO update.sh https://raw.githubusercontent.com/adayatechh/rustdeskinstall/
 
 Run the following commands:
 ```
-sudo wget -qO- https://raw.githubusercontent.com/adayatechh/rustdeskinstall/main/auto-update.sh | bash
+wget -qO- https://raw.githubusercontent.com/adayatechh/rustdeskinstall/main/auto-update.sh | sudo bash
 ```
 
 ***It checks for update every Sunday at 2 AM***
 
-**You need ROOT OR SUDO for auto-update to work**
+**You need ROOT OR SUDO (sudo bash) for auto-update to work**
 <br>
 <br>
 <br>
